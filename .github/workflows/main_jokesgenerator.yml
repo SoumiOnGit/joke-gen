@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Jokesgenerator'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_79D1E6EFAE754B61B47B1F9E51043AF1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_76E4B98E48BF4AD9A94BB1480299C91C }}
